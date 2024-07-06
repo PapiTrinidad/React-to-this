@@ -1,0 +1,32 @@
+    .navbar {
+        display: flex;
+        overflow: hidden;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+    }
+
+    
+
+        a{
+            color: white;
+        }
+
+
+    a:link {
+        text-decoration: none;
+  }
+  
+  a:visited {
+        text-decoration: none;
+  }
+  
+  a:hover {
+        text-decoration: none;
+  }
+  
+  a:active {
+        text-decoration: none;
+  }

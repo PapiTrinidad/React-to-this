@@ -1,0 +1,25 @@
+ .border {
+    margin: 0 auto;
+    border: solid;
+    width: 50%;
+ }
+
+   form{
+      width: 50%;
+      height: 25%;
+      margin: 0 auto; 
+   }
+
+   .username, .password {
+      margin-right: 20px;
+   }
+
+
+  h3{
+   text-align: center;
+  }
+ /* I need to justify the content to 
+ by center either by using the ClassName=Border to do so
+ - For the login */
+
+ 
